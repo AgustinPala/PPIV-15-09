@@ -1,5 +1,5 @@
 package ar.edu.undef.fie;
-public class Main {
+public class Concatenando {
     public static void main(String[] args) {
 
         var nombre = args[0];
